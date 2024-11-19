@@ -1,0 +1,27 @@
+{
+  "name": "@pmndrs/drei-bug-report-template-starter",
+  "version": "1.0.0",
+  "description": "A starter for the Bug Report Template on @pmndrs/drei",
+  "keywords": [
+    "react",
+    "three.js"
+  ],
+  "main": "src/index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/fiber": "*",
+    "@react-three/drei": "*",
+    "leva": "*",
+    "react": "*",
+    "react-dom": "*",
+    "three": "*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.11"
+  }
+}
